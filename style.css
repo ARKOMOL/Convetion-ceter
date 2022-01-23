@@ -16,3 +16,12 @@ body{
     top: -21px;
     right: 19px;
 }
+
+.bonus-cont h2{
+    font-size: 70px;
+    text-align: center;
+}
+.bonus-cont h3{
+    font-size: 30px;
+    text-align:center;
+}
