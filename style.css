@@ -1,0 +1,18 @@
+a{
+    text-decoration: none;
+}
+body{
+    background-color: rgb(194, 212, 194);
+}
+
+.package-cont.bg-primary.p-4.pt-5 {
+    margin-top: -68px;
+    border-radius: 25px;
+    
+}
+
+.badge {
+  
+    top: -21px;
+    right: 19px;
+}
