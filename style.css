@@ -1,3 +1,6 @@
+/* google fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Manrope:wght@700&family=Poppins:wght@400;700&display=swap');
+
 a{
     text-decoration: none;
 }
@@ -5,11 +8,20 @@ body{
     background-color: rgb(194, 212, 194);
 }
 
+
 .package-cont.bg-primary.p-4.pt-5 {
     margin-top: -68px;
     border-radius: 25px;
     
 }
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+   
+    width: 6rem;
+    height: 6rem;
+ 
+}
+
 
 .badge {
   
@@ -24,11 +36,4 @@ body{
 .bonus-cont h3{
     font-size: 30px;
     text-align:center;
-}
-
-
-/* media query  */
-
-@media only screen and (max-width: 600px){
-    
 }
