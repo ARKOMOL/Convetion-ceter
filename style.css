@@ -8,7 +8,7 @@ body{
     background-color: rgb(194, 212, 194);
 }
 
-
+/* body  */
 .package-cont.bg-primary.p-4.pt-5 {
     margin-top: -68px;
     border-radius: 25px;
@@ -22,13 +22,14 @@ body{
  
 }
 
+/* badge  */
 
 .badge {
   
     top: -21px;
     right: 19px;
 }
-
+/* bonus part  */
 .bonus-cont h2{
     font-size: 70px;
     text-align: center;
